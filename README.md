@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jorge-koyi, well my real name is Jorge Espinosa Avila and im from Mexico
+- 👀 I’m interested in how websites work and how they can be improved
+- 🌱 I’m currently learning some javascript frameworks and improving my databases skills
+- 💞️ I’m looking to collaborate on projects of web development or design of websites
+- 📫 You can reach me on jlea98@gmail.com, send me a mail and i can provide you my phone number if you want
